@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+        <file>components/SearchField.qml</file>
+        <file>components/ButtonPrimary.qml</file>
+        <file>components/ButtonImage.qml</file>
+        <file>components/assets/folder_button.svg</file>
+        <file>components/TextHeader.qml</file>
+        <file>components/ButtonDelete.qml</file>
+        <file>components/ButtonSecondary.qml</file>
+        <file>components/Alert.qml</file>
+        <file>components/assets/info.svg</file>
+        <file>components/assets/warning.svg</file>
+    </qresource>
+</RCC>
